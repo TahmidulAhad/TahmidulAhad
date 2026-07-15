@@ -1,35 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=230&section=header&text=Tahmidul%20Ahad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20Developer%20%7C%20API%20Engineer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Md.%20Tahmidul%20Ahad&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20.NET%20Developer%20|%20API%20Engineer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;.NET+Enthusiast;Django+Developer;Go+Learner;Always+Building+Something+Awesome"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer;ASP.NET+Core+Developer;.NET+Developer;REST+API+Developer;Django+Developer;Always+Learning+Something+New"/>
 
 <p>
-<a href="https://tahmidulahadportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tahmidul-ahad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://github.com/TahmidulAhad"><img src="https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&logo=github"/></a>
+
+<a href="https://tahmidulahadportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tahmidul-ahad/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TahmidulAhad">
+<img src="https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-![](https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=0e75b6)
+<img src="https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```csharp
-public class TahmidulAhad
+public class Developer
 {
-    public string Name => "Tahmidul Ahad";
+    public string Name = "Md. Tahmidul Ahad";
 
-    public string Role => "Backend & .NET Developer";
+    public string Role =
+        "Backend & .NET Developer";
 
-    public string Passion =>
-        "Building scalable, secure and high-performance backend applications.";
+    public string Passion =
+        "Building scalable, secure and high-performance backend systems.";
 
-    public string[] Tech =>
+    public string[] Technologies =
     {
         "ASP.NET Core",
         ".NET",
@@ -41,13 +55,13 @@ public class TahmidulAhad
         "PostgreSQL"
     };
 
-    public string[] Learning =>
+    public string[] CurrentlyLearning =
     {
         "Microservices",
-        "Cloud",
-        "System Design",
+        "Clean Architecture",
         "Docker",
-        "DevOps"
+        "System Design",
+        "Cloud Computing"
     };
 }
 ```
@@ -56,95 +70,90 @@ public class TahmidulAhad
 
 # 🚀 Current Focus
 
-- 🔭 Developing scalable **ASP.NET Core** applications
-- 🌱 Learning **Microservices & Cloud Native Development**
-- ⚡ Exploring **System Design & Distributed Systems**
-- 🏗 Practicing **Clean Architecture**
-- 🔐 Building secure REST APIs
+- 🔭 Building scalable backend applications with **ASP.NET Core**
+- 🌱 Learning **Microservices**, **Docker**, and **Cloud**
+- ⚡ Improving **System Design** & **Software Architecture**
+- 🔐 Developing secure REST APIs
+- 🎯 Writing clean, maintainable, production-ready code
 
 ---
 
-# 🏆 Achievements
+# 🏆 Highlights
 
-🏅 Honourable Mention — WICE 2026 National Round
-
-🇧🇩 Selected for WICE International Round
-
-💼 Backend Developer Intern
-
-🤖 Organizing Secretary — Robotics Club
+- 🏅 Honourable Mention — **WICE 2026 National Round**
+- 🌍 Selected for **WICE 2026 International Round**
+- 💼 Backend Developer Intern
+- 🤖 Organizing Secretary — Robotics Club
+- 🎨 Former Graphic Designer — Aspire Internship Program
 
 ---
 
-# 🏗 Backend Expertise
+# 💼 Technical Expertise
 
-✔ ASP.NET Core
+### Backend
 
-✔ .NET
+- ASP.NET Core
+- .NET
+- REST API
+- Entity Framework Core
+- JWT Authentication
+- Identity
+- LINQ
+- MVC
+- Clean Architecture
+- Repository Pattern
 
-✔ REST API
+### Database
 
-✔ Entity Framework Core
+- MySQL
+- PostgreSQL
+- MongoDB
 
-✔ JWT Authentication
+### Programming
 
-✔ Identity
-
-✔ LINQ
-
-✔ Repository Pattern
-
-✔ MVC
-
-✔ Clean Architecture
-
-✔ Database Design
-
-✔ SQL Optimization
-
-✔ API Security
-
-✔ Software Architecture
+- C#
+- Go
+- Python
+- Java
+- PHP
+- C
+- C++
 
 ---
 
-# ⚙ Tech Stack
+# 🛠 Tech Stack
 
-### 🚀 Backend
+<div align="center">
 
-<p>
+### Backend
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,django,java,php,c,cpp"/>
-</p>
 
-### 🌐 Frontend
+### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
 
-### 🗄 Database
+### Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
-</p>
 
-### ☁ Cloud & DevOps
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,visualstudio"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,visualstudio"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Tech |
-|----------|------|
-| 🤖 BreathLink | ESP32 • IoT |
-| 💊 Smart Medicine Reminder | ESP32 • Telegram Bot |
-| 🌾 Grameen Service Connect | Django REST |
-| 📄 AI Resume Analyzer | Gemini API |
-| 🌐 Portfolio Website | HTML • CSS • JS |
+| Project | Description |
+|----------|-------------|
+| 🌾 Grameen Service Connect | Village-to-City Service Platform |
+| 🤖 BreathLink | IoT Assistive Healthcare Device |
+| 💊 Smart Medicine Reminder | ESP32 + Telegram Bot |
+| 📄 AI Resume Analyzer | AI Powered Resume Screening |
+| 🌐 Personal Portfolio | Developer Portfolio Website |
 
 ---
 
@@ -152,9 +161,9 @@ public class TahmidulAhad
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -168,43 +177,35 @@ public class TahmidulAhad
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&theme=tokyo-night"/>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&no-frame=true&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&column=7&no-frame=true"/>
 
 ---
 
 # 📊 Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidulAhad&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidulAhad&theme=tokyonight"/>
 
 ---
 
-# 📈 Coding Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahmidulAhad&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahmidulAhad&theme=tokyonight)
-
----
-
-# 🤝 Connect with Me
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tahmidul-ahad">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://tahmidulahadportfolio.netlify.app">
+<a href="https://tahmidulahadportfolio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="https://www.linkedin.com/in/tahmidul-ahad/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -214,10 +215,10 @@ public class TahmidulAhad
 
 <div align="center">
 
-### 💭 Developer Philosophy
+### 💭 Philosophy
 
-> **"Great software isn't just about writing code—it's about solving real-world problems with clean architecture, scalability, and continuous learning."**
+> **"Build software that is scalable, maintainable, and solves real-world problems."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>

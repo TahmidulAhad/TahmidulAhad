@@ -1,318 +1,968 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Md.%20Tahmidul%20Alam%20Ahad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%26%20CMO%20@%20Tectonic%20|%20Backend%20%26%20.NET%20Developer%20|%20Graphic%20Designer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:3B82F6&text=Md.%20Tahmidul%20Alam%20Ahad&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Co-Founder%20%26%20CMO%20%40%20Tectonic&descAlignY=58&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Backend+%26+.NET+Developer;ASP.NET+Core+Engineer;REST+API+Developer;Co-Founder+%26+CMO+%40+Tectonic;Building+Scalable+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;ASP.NET+Core+Developer;.NET+Developer;REST+API+Engineer;Co-Founder+%26+CMO+%40+Tectonic;Building+Scalable+Backend+Systems"/>
+
+<br/>
+
+### Backend Developer • Co-Founder & CMO @ Tectonic
+
+##### Crafting scalable, secure, and high-performance backend solutions with **ASP.NET Core**, **.NET**, **Go**, and **Django**.
+
+<br/>
+
+<a href="https://tahmidulahadportfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="https://linkedin.com/in/tahmidul-ahad" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="mailto:mdtahmidula@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="https://github.com/TahmidulAhad">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<a href="https://tahmidulahadportfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/tahmidul-ahad"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:mdtahmidula@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://www.behance.net/mdtahmahad"><img src="https://img.shields.io/badge/BEHANCE-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=58A6FF&labelColor=0d1117"/>
 
-<br/>
+<img src="https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=58A6FF&labelColor=0d1117)
-![GitHub followers](https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&label=FOLLOWERS)
+<img src="https://img.shields.io/github/stars/TahmidulAhad?style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117"/>
 
 </div>
-
-<br/>
-
-<!-- ================= SNAKE CONTRIBUTION ANIMATION ================= -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/TahmidulAhad/TahmidulAhad/output/github-contribution-grid-snake-dark.svg" alt="snake contribution animation" width="100%"/>
-</div>
-
-> ℹ️ The snake animation above renders once the included GitHub Actions workflow (`snake.yml`) runs on your `TahmidulAhad/TahmidulAhad` repo — see **Setup Instructions** at the bottom of this file.
-
-<br/>
 
 ---
 
+<div align="center">
+
 ## 👋 About Me
+
+</div>
 
 ```csharp
 namespace TahmidulAhad
 {
     public class Developer
     {
-        public string FullName    = "Md. Tahmidul Alam Ahad";
-        public string Role        = "Co-Founder & CMO @ Tectonic | Backend Developer";
-        public string University  = "BGC Trust University Bangladesh (CSE, 7th Semester)";
-        public string Location    = "Chittagong, Bangladesh";
+        public string Name => "Md. Tahmidul Alam Ahad";
 
-        public string[] Focus =>
-        {
-            "ASP.NET Core", ".NET", "C#", "Go", "Python",
-            "Django", "REST APIs", "System Design"
-        };
+        public string Role =>
+            "Backend Developer";
+
+        public string Company =>
+            "Co-Founder & CMO @ Tectonic";
 
         public string Mission =>
-            "Building scalable, secure, and high-performance backend systems.";
+            "Designing scalable backend architectures that are secure, maintainable, and production-ready.";
+
+        public string[] Technologies =>
+        {
+            "ASP.NET Core",
+            ".NET",
+            "C#",
+            "Go",
+            "Python",
+            "Django",
+            "REST APIs",
+            "SQL"
+        };
+
+        public string[] CurrentlyLearning =>
+        {
+            "Microservices",
+            "Docker",
+            "Kubernetes",
+            "Cloud Computing",
+            "System Design",
+            "CI/CD"
+        };
     }
 }
 ```
 
-I'm a B.Sc. student in **Computer Science and Engineering** at BGC Trust University Bangladesh, currently in my 7th semester. I focus on backend development and creative design, and I currently serve as **Co-Founder & CMO at Tectonic**, where I lead brand strategy and marketing operations for a growing technology platform.
+I'm a passionate **Backend Developer** focused on designing scalable APIs, modern backend architectures, and secure web applications.
 
-- 🔭 Currently building backend systems with **ASP.NET Core** and **.NET**
-- 🌱 Deepening my knowledge of **Microservices**, **Docker**, and **Cloud Computing**
-- 💼 Co-Founder & CMO @ **Tectonic**
-- 🎨 Occasional graphic design & brand identity work
-- 💬 Ask me about C#, ASP.NET Core, Django, Go, or SQL
-- ⚡ Fun fact: I've also served as team lead on an internationally recognized IoT healthcare project
+Alongside software engineering, I serve as the **Co-Founder & Chief Marketing Officer (CMO) of Tectonic**, where I contribute to product strategy, branding, and growth.
 
-<br/>
+I enjoy transforming ideas into reliable software while continuously learning new technologies and engineering best practices.
 
 ---
 
-## 🏆 Highlights & Achievements
+# 🚀 Current Focus
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+```text
+🔹 Building scalable backend applications using ASP.NET Core
 
-**🌍 BreathLink — WICE 2026**
-Selected for the **International Round of WICE, Malaysia** (2026) as team lead of Robo Avengers — an IoT-based assistive healthcare device.
+🔹 Developing clean and secure REST APIs
 
-**✍️ Phitron Story Writing Contest**
-**First Runner-up** (2025), recognized as "Change-Maker" among 100+ participants for impactful storytelling.
+🔹 Exploring Microservices Architecture
 
-</td>
-<td width="50%" valign="top">
+🔹 Learning Docker & Kubernetes
 
-**💻 Chittagong ICT Fair Quiz Competition**
-**Runner-up** (2025) — regional technology knowledge competition.
+🔹 Studying Distributed Systems & System Design
 
-**🔬 Science Project Competition**
-**National 5th** (2018) — competitive research showcase.
+🔹 Improving Cloud & DevOps Skills
 
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 💼 Experience Timeline
-
-```
-2025 ─────────────────────────────────────────────────────────▶ Present
-  │
-  ├── Apr 2025 – Aug 2025   Back-End Developer (Intern) @ The NeXGenix Ltd.
-  │                          → Built APIs & handled databases with PHP, Python, MySQL
-  │
-  ├── Jun 2025 – Present     Phitronista (Campus Ambassador) @ Phitron
-  │
-  ├── Sep 2025 – Present     Organising Secretary @ BGCTUB Robotics Club
-  │
-  ├── Jan 2025 – Present     Campus Ambassador @ BASIS Student's Forum
-  │
-  └── Apr 2026 – Present     Media & Publication Secretary @ Allied Computer Streams (ACS)
+🔹 Writing clean, maintainable and production-ready code
 ```
 
-<details>
-<summary><b>📌 Full Activities & Leadership History</b></summary>
-<br/>
+---
 
-| Role | Organization | Duration |
-|---|---|---|
-| Media and Publication Secretary | Allied Computer Streams (ACS) | Apr 2026 – Present |
-| Organising Secretary | BGCTUB Robotics Club | Sep 2025 – Present |
-| Phitronista (Campus Ambassador) | Phitron | Jun 2025 – Present |
-| Campus Ambassador | BASIS Student's Forum | Jan 2025 – Present |
-| IT Coordinator | BGCTUB IT Club | Dec 2024 – Jan 2026 |
-| Executive | BASIS Student Forum, BGCTUB Chapter | Nov 2023 – Nov 2025 |
-| Sub Committee Member | BGCTUB Debating Club | Jun 2024 – Dec 2024 |
+# 💡 What I Do
 
-</details>
+### ⚙ Backend Engineering
 
-<br/>
+- ASP.NET Core Development
+- REST API Development
+- Authentication & Authorization
+- Entity Framework Core
+- Clean Architecture
+- Repository Pattern
+- JWT Security
+- Performance Optimization
 
 ---
 
-## 🎓 Education
+### 🗄 Database Design
 
-| Degree | Institution | Duration | Result |
-|---|---|---|---|
-| B.Sc in Computer Science and Engineering | BGC Trust University Bangladesh | Jun 2023 – Jun 2027 | 7th Semester (Ongoing) |
-| Higher Secondary Certificate | Cox's Bazar Govt. College | 2019 – 2021 | GPA 5.00 |
-| Secondary School Certificate | Chakaria Korak Biddyapith | 2017 – 2019 | GPA 5.00 |
-
-<br/>
-
----
-
-## 📜 Certifications
-
-<table>
-<tr><td>🍃</td><td><b>MongoDB Overview: Core Concepts and Architecture</b><br/><sub>MongoDB · Feb 2026</sub></td></tr>
-<tr><td>🚀</td><td><b>Three Month Hybrid Internship</b><br/><sub>Aspire Internship Program · Oct 2025</sub></td></tr>
-<tr><td>🐘</td><td><b>PHP for Beginners: The Complete PHP MySQL PDO Course</b><br/><sub>Udemy · Sep 2023</sub></td></tr>
-<tr><td>📈</td><td><b>Career Launchpad</b><br/><sub>Grameenphone Ltd · Jun 2022</sub></td></tr>
-<tr><td>🤖</td><td><b>Basics of Artificial Intelligence</b><br/><sub>10 Minute School · Apr 2022</sub></td></tr>
-</table>
-
-<br/>
+- MySQL
+- PostgreSQL
+- MongoDB
+- Database Normalization
+- Query Optimization
+- Stored Procedures
 
 ---
 
-## 🛠️ Tech Stack
+### ☁ Cloud & DevOps
+
+- Docker
+- Linux
+- GitHub Actions
+- CI/CD
+- Deployment
+- Cloud Fundamentals
+
+---
+
+### 🎯 Interests
+
+- Backend Engineering
+- Software Architecture
+- Distributed Systems
+- Cloud Native Development
+- Open Source
+- Artificial Intelligence
+
+---
+
+# 📈 2026 Goals
+
+- 🚀 Master ASP.NET Core Ecosystem
+
+- ☁ Learn Azure Cloud
+
+- 🐳 Build Production Apps with Docker
+
+- ⚡ Learn Kubernetes
+
+- 📦 Publish NuGet Packages
+
+- 🌍 Contribute to Open Source
+
+- 🏆 Become a Professional Backend Engineer
+
+---
 
 <div align="center">
 
-**Backend & Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,django,java,php,c,cpp,dart"/>
+# 💼 Professional Experience
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-**Database & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,netlify,vercel"/>
-
-**Tools & Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,ps,ai,postman,linux,docker"/>
+*"Turning ideas into scalable software and impactful communities."*
 
 </div>
 
 <br/>
-
----
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ [Tectonic — Foundation of Future](https://tect0nic.com/)
-Co-founded technology platform; leading brand strategy, digital marketing, and growth initiatives.
-`Co-Founder & CMO` `Marketing Strategy` `Brand Development`
+## 🚀 Co-Founder & CMO
 
-### 🫁 BreathLink
-IoT-based assistive healthcare device — selected for WICE 2026 International Round.
-`IoT` `Healthcare` `Team Lead`
+### Tectonic
 
-### 💊 Smart Medicine Reminder
-ESP32 + Telegram bot integration for medicine reminders.
-`ESP32` `IoT` `Telegram Bot`
+**Present**
+
+Building and growing a technology platform by leading:
+
+- 📈 Brand Strategy
+- 🎯 Product Marketing
+- 🤝 Partnership Development
+- 🌍 Community Growth
+- 📢 Digital Campaigns
+- 💡 Product Positioning
+
+**Tech & Business**
+
+`Leadership`
+`Branding`
+`Marketing`
+`Product Strategy`
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📄 [GSC Academic Project SPD01](https://github.com/TahmidulAhad/GSC-Academic-Project-SPD01)
-Software Project Design coursework showcasing architecture & design patterns.
-`Software Design` `Academic`
+## 💻 Backend Developer Intern
 
-### 🍽️ [Restaurant Project Demo](https://github.com/TahmidulAhad/Resturaunt_Project_Demo_01)
-Restaurant management system built for academic coursework.
-`Web Development` `Academic`
+### The NeXGenix Ltd.
 
-### 🤖 [Robo Avengers Management System](https://github.com/TahmidulAhad/Robo_Avengers_Management_System)
-Management system for robotics team coordination.
-`JavaScript` `Management System`
+**Apr 2025 – Aug 2025**
+
+Worked on backend development using modern technologies.
+
+Responsibilities:
+
+- REST API Development
+- Backend Logic
+- Database Design
+- SQL Optimization
+- Bug Fixing
+- API Testing
+
+**Stack**
+
+`PHP`
+`Python`
+`MySQL`
 
 </td>
+
 </tr>
 </table>
 
-<details>
-<summary><b>🎨 Design & Additional Projects</b></summary>
-<br/>
+---
 
-| Project | Description | Link |
-|---|---|---|
-| Java Tetris Game | Classic Tetris with scoring & level progression | [GitHub](https://github.com/TahmidulAhad/Java-Tetris-Game-master) |
-| Fajitas Restaurant Menu Design | Branding & menu design project | [Behance](https://www.behance.net/mdtahmahad) |
-| CoderVai Educational Initiative | Web dev training & coding bootcamp platform | [Case Study](https://www.behance.net/gallery/231409529/CoderVai-Educational-and-Community-Initiative) |
-| AI Resume Analyzer | AI-powered resume screening tool | — |
-| Grameen Service Connect | Village-to-city service platform | — |
+# 🏛 Leadership
 
-</details>
+<table>
 
-<br/>
+<tr>
+
+<td width="50%">
+
+## 🤖 Organising Secretary
+
+### BGCTUB Robotics Club
+
+Leading robotics activities, competitions and technical events.
+
+</td>
+
+<td width="50%">
+
+## 📢 Media & Publication Secretary
+
+### Allied Computer Streams (ACS)
+
+Managing publications, branding and event promotions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🎓 Campus Ambassador
+
+### BASIS Student's Forum
+
+Representing the organization and promoting technology initiatives.
+
+</td>
+
+<td>
+
+## 💙 Phitronista
+
+### Phitron
+
+Campus Ambassador promoting programming education.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 Achievements
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=TahmidulAhad&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&column=7&no-frame=true&margin-w=8"/>
-
-</div>
-
-<br/>
-
----
-
-## 📄 Resume
-
-📄 **[View / Download Full Resume →](https://www.canva.com/design/DAFuhkKhe_8/ANWTUyLilB88Zo9pqutBgg/view)**
-
-<br/>
-
----
-
-## 📬 Get in Touch
-
-<div align="center">
-
-<a href="mailto:mdtahmidula@gmail.com"><img src="https://img.shields.io/badge/mdtahmidula@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="tel:+8801521733084"><img src="https://img.shields.io/badge/+880_15217--33084-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/></a>
-
-<br/>
-
-📍 **Chittagong, Bangladesh**
-
-<br/>
-
-<a href="https://github.com/TahmidulAhad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/tahmidul-ahad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.behance.net/mdtahmahad"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://instagram.com/tahmidul_ahad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/mdtahmidulalam.ahad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> *"Build software that is scalable, maintainable, and solves real-world problems."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
-
-<sub>© 2026 Md. Tahmidul Alam Ahad</sub>
+| 🏅 Achievement | Year |
+|:---------------|:---:|
+| 🌍 Selected for **WICE International Round (Malaysia)** | 2026 |
+| 🏅 Honourable Mention — WICE National Round | 2026 |
+| 🥈 First Runner-up — Phitron Story Writing Contest | 2025 |
+| 🥈 Runner-up — Chittagong ICT Fair Quiz Competition | 2025 |
+| 🏅 National 5th — Science Project Competition | 2018 |
 
 </div>
 
 ---
 
-## ⚙️ Setup Instructions (for the Snake Animation)
+# 🎓 Education
 
-The snake contribution animation needs a one-time GitHub Actions setup on your **`TahmidulAhad/TahmidulAhad`** profile repo:
+| Degree | Institution | Status |
+|---------|------------|--------|
+| 🎓 B.Sc. in Computer Science & Engineering | BGC Trust University Bangladesh | Ongoing |
+| 📘 Higher Secondary Certificate | Cox's Bazar Government College | Completed |
+| 📗 Secondary School Certificate | Chakaria Korak Biddyapith | Completed |
 
-1. Create the folder `.github/workflows/` in that repo.
-2. Add the included `snake.yml` file to it (provided alongside this README).
-3. Go to **Settings → Actions → General** and make sure workflow permissions are set to **"Read and write permissions."**
-4. Push the workflow — GitHub Actions will run on a schedule (and on push) and generate the snake SVG automatically at the path referenced in this README (`output/github-contribution-grid-snake-dark.svg`).
-5. Once the action runs once, the animation will appear at the top of this README automatically.
+---
 
-> Note: GitHub-rendered READMEs support markdown, HTML tags, and images/SVGs/badges, but **do not execute custom CSS or JavaScript** — so true glassmorphism blur effects and custom animations beyond animated SVGs/GIFs aren't possible directly in a README. Everything above (gradient banners, typing effect, snake animation, stat cards, trophies) uses external image-generating services, which is the standard and most reliable way profile READMEs achieve this premium look.
+# 📜 Certifications
+
+<table>
+
+<tr>
+
+<td>🍃 MongoDB Overview: Core Concepts & Architecture</td>
+
+<td>MongoDB</td>
+
+</tr>
+
+<tr>
+
+<td>🚀 Three Month Hybrid Internship</td>
+
+<td>Aspire Internship Program</td>
+
+</tr>
+
+<tr>
+
+<td>🐘 PHP for Beginners: Complete PHP MySQL PDO Course</td>
+
+<td>Udemy</td>
+
+</tr>
+
+<tr>
+
+<td>📈 Career Launchpad</td>
+
+<td>Grameenphone Ltd.</td>
+
+</tr>
+
+<tr>
+
+<td>🤖 Basics of Artificial Intelligence</td>
+
+<td>10 Minute School</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| Backend | Cloud | DevOps |
+|----------|--------|---------|
+| ASP.NET Core | Azure | Docker |
+| Microservices | Cloud Computing | GitHub Actions |
+| Clean Architecture | Distributed Systems | Kubernetes |
+| System Design | Networking | CI/CD |
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+✅ Master ASP.NET Core
+
+🔄 Learn Azure
+
+🔄 Kubernetes
+
+🔄 Docker
+
+🔄 Redis
+
+🔄 RabbitMQ
+
+🔄 GraphQL
+
+🔄 Distributed Systems
+
+🔄 Software Architecture
+
+🔄 Open Source Contributions
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+> **"Code should be simple enough to understand, scalable enough to grow, and reliable enough to earn trust."**
+
+---
+
+<div align="center">
+
+# 🛠 Tech Arsenal
+
+*"Building robust backend systems with modern technologies."*
+
+</div>
+
+<br>
+
+## ⚙ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,django,php,java"/>
+
+</p>
+
+<div align="center">
+
+| Technology | Proficiency |
+|------------|-------------|
+| ASP.NET Core | ██████████ 95% |
+| .NET | ██████████ 95% |
+| C# | ██████████ 95% |
+| Go | ███████░░░ 70% |
+| Django | █████████░ 85% |
+| REST APIs | ██████████ 95% |
+
+</div>
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vercel,netlify"/>
+
+</p>
+
+---
+
+## 🖥 Development Environment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,photoshop"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
+
+<br>
+
+<a href="https://github.com/TahmidulAhad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahmidulAhad&repo=Grameen-Service-Connect&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/TahmidulAhad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahmidulAhad&repo=BreathLink&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/TahmidulAhad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahmidulAhad&repo=Smart-Medicine-Reminder&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/TahmidulAhad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahmidulAhad&repo=Portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+> **⚠️ Note:** `repo=`-তে অবশ্যই আপনার GitHub repository-র **ঠিক নাম** লিখবেন। যদি `BreathLink` বা `Portfolio`-এর নাম আলাদা হয়, সেটি পরিবর্তন করুন।
+
+---
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+</div>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=TahmidulAhad&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidulAhad&theme=tokyonight"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
+
+</div>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Achievements
+
+</div>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-frame=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🌍 Open Source Journey
+
+</div>
+
+- 🚀 Contributing to backend and .NET projects
+- 📦 Planning to publish reusable NuGet packages
+- 🌱 Continuously learning modern software engineering
+- 🤝 Open to collaboration on impactful open-source projects
+- 💡 Passionate about clean architecture and scalable APIs
+
+---
+
+<div align="center">
+
+# 🌍 Let's Connect
+
+*"Always open to collaborating on exciting projects, innovative ideas, and meaningful opportunities."*
+
+</div>
+
+<br>
+
+<p align="center">
+
+<a href="https://tahmidulahadportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tahmidul-ahad/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mdtahmidula@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TahmidulAhad">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_CANVA_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-View%20CV-16A34A?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📬 Contact Information
+
+| Platform | Link |
+|-----------|------|
+| 🌐 Portfolio | https://tahmidulahadportfolio.netlify.app |
+| 💼 LinkedIn | https://linkedin.com/in/tahmidul-ahad |
+| 📧 Email | mdtahmidula@gmail.com |
+| 💻 GitHub | https://github.com/TahmidulAhad |
+| 📄 Resume | Canva Resume |
+
+---
+
+# 🚀 Currently Working On
+
+- ⚡ ASP.NET Core Enterprise Applications
+- 🌐 RESTful APIs
+- 🧩 Clean Architecture
+- 🐳 Docker
+- ☁ Cloud Computing
+- ⚙ Microservices
+- 🧠 System Design
+- 🚀 Open Source Contributions
+
+---
+
+# 💡 Fun Facts
+
+```text
+💻 I enjoy solving backend challenges.
+
+🚀 I love learning new technologies.
+
+🤝 I enjoy collaborating with developers.
+
+📚 Every day I try to learn something new.
+
+🌍 My goal is to become a world-class Backend Engineer.
+```
+
+---
+
+# 📈 Developer Journey
+
+```text
+Student
+    │
+    ▼
+Backend Intern
+    │
+    ▼
+Backend Developer
+    │
+    ▼
+Software Engineer
+    │
+    ▼
+Senior Backend Engineer
+    │
+    ▼
+Software Architect
+```
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions and use the workflow provided in PART 5.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/TahmidulAhad/TahmidulAhad/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📊 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=3B82F6"/>
+
+</p>
+
+---
+
+# 💙 Support
+
+If you like my projects, consider giving them a ⭐ on GitHub.
+
+It motivates me to build more amazing software.
+
+---
+
+<div align="center">
+
+# 💭 Quote
+
+*"Great software isn't just written—it's carefully engineered."*
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Thanks for Visiting
+
+Backend Developer • Co-Founder & CMO @ Tectonic
+
+Crafting scalable, secure, and high-performance backend solutions.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,50:1E3A8A,100:3B82F6"/>
+
+</div>
+
+<div align="center">
+
+# 📊 Advanced GitHub Metrics
+
+*"Continuous learning. Continuous improvement."*
+
+</div>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidulAhad&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidulAhad&theme=tokyonight&utcOffset=6"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahmidulAhad&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahmidulAhad&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 Professional Interests
+
+### 💻 Backend Engineering
+
+- Enterprise Applications
+- REST APIs
+- Authentication & Authorization
+- Distributed Systems
+- Microservices
+- Performance Optimization
+
+### ☁ Cloud Computing
+
+- Microsoft Azure
+- Docker
+- Kubernetes
+- CI/CD
+- Linux
+- GitHub Actions
+
+### 🧠 Software Engineering
+
+- System Design
+- Design Patterns
+- Software Architecture
+- Database Engineering
+- Secure Coding
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become an Expert ASP.NET Core Developer
+- ✅ Master Microservices
+- ✅ Learn Kubernetes
+- ✅ Learn Azure
+- ✅ Publish Open Source Projects
+- ✅ Publish NuGet Packages
+- ✅ Contribute to Global Open Source
+- ✅ Build SaaS Products
+- ✅ Grow Tectonic Internationally
+
+---
+
+# ❤️ Open Source Philosophy
+
+> **"Code is more than syntax—it's a way to solve problems, empower people, and create lasting impact."**
+
+I believe in writing clean, maintainable, and scalable software while continuously learning from the global developer community.
+
+---
+
+# 🤝 Collaboration
+
+I'm open to collaborating on:
+
+- 🚀 ASP.NET Core Projects
+- 🌐 REST API Development
+- 🧩 Backend Architecture
+- 🏗 SaaS Products
+- 🤖 AI-powered Applications
+- 🌍 Open Source Projects
+
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="YOUR_CANVA_RESUME_LINK">
+
+<img src="https://img.shields.io/badge/View%20Resume-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+If you like my work, don't forget to:
+
+⭐ Star my repositories
+
+🍴 Fork interesting projects
+
+🤝 Connect on LinkedIn
+
+🌐 Visit my Portfolio
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/3B82F6/TahmidulAhad" />
+
+</p>
+
+---
+
+# 🐍 GitHub Snake Animation
+
+> Enable the GitHub Action below to automatically update the snake animation every day.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+
+        with:
+          github_user_name: TahmidulAhad
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+# 🌟 Quote
+
+<div align="center">
+
+> **"Success isn't measured by the code you write today, but by the impact your software creates tomorrow."**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Let's Build Something Amazing Together!
+
+<a href="https://tahmidulahadportfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tahmidul-ahad/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mdtahmidula@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/TahmidulAhad">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Backend Developer • Co-Founder & CMO @ Tectonic**
+
+*Crafting scalable, secure, and high-performance backend solutions.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,50:1E3A8A,100:3B82F6"/>
+
+</div>

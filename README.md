@@ -1,30 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tahmidul+Ahad;Backend+Developer;ASP.NET+Core+%7C+.NET+Developer;Django+Developer;Go+Learner;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=230&section=header&text=Tahmidul%20Ahad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20Developer%20%7C%20API%20Engineer&descAlignY=58"/>
 
-<h3>🚀 Backend Developer • .NET Developer • API Engineer</h3>
-
-<p>
-Building scalable, secure and high-performance backend systems.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;.NET+Enthusiast;Django+Developer;Go+Learner;Always+Building+Something+Awesome"/>
 
 <p>
-
-<a href="https://tahmidulahadportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tahmidul-ahad/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://tahmidulahadportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tahmidul-ahad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/TahmidulAhad"><img src="https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&logo=github"/></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -32,34 +19,36 @@ Building scalable, secure and high-performance backend systems.
 
 # 💫 About Me
 
-```cs
+```csharp
 public class TahmidulAhad
 {
+    public string Name => "Tahmidul Ahad";
+
     public string Role => "Backend & .NET Developer";
 
-    public string[] TechStack =>
-    [
+    public string Passion =>
+        "Building scalable, secure and high-performance backend applications.";
+
+    public string[] Tech =>
+    {
         "ASP.NET Core",
-        "C#",
         ".NET",
+        "C#",
         "Django",
         "Go",
         "REST API",
         "MySQL",
         "PostgreSQL"
-    ];
+    };
 
-    public string[] Interests =>
-    [
-        "Backend Engineering",
-        "Clean Architecture",
+    public string[] Learning =>
+    {
         "Microservices",
         "Cloud",
-        "System Design"
-    ];
-
-    public string CurrentFocus =>
-        "Building scalable backend applications.";
+        "System Design",
+        "Docker",
+        "DevOps"
+    };
 }
 ```
 
@@ -67,24 +56,39 @@ public class TahmidulAhad
 
 # 🚀 Current Focus
 
-- 🔭 Building scalable backend applications using **ASP.NET Core**
-- 🌱 Learning **Microservices**
-- ☁️ Exploring **Cloud Computing**
-- ⚡ Improving **System Design**
-- 🔐 Learning Secure API Development
-- 💬 Ask me about **C#, ASP.NET Core, Django, Go, SQL**
+- 🔭 Developing scalable **ASP.NET Core** applications
+- 🌱 Learning **Microservices & Cloud Native Development**
+- ⚡ Exploring **System Design & Distributed Systems**
+- 🏗 Practicing **Clean Architecture**
+- 🔐 Building secure REST APIs
+
+---
+
+# 🏆 Achievements
+
+🏅 Honourable Mention — WICE 2026 National Round
+
+🇧🇩 Selected for WICE International Round
+
+💼 Backend Developer Intern
+
+🤖 Organizing Secretary — Robotics Club
 
 ---
 
 # 🏗 Backend Expertise
 
-✔ REST API Development
+✔ ASP.NET Core
 
-✔ Authentication & Authorization
+✔ .NET
 
-✔ JWT
+✔ REST API
 
 ✔ Entity Framework Core
+
+✔ JWT Authentication
+
+✔ Identity
 
 ✔ LINQ
 
@@ -96,7 +100,7 @@ public class TahmidulAhad
 
 ✔ Database Design
 
-✔ Performance Optimization
+✔ SQL Optimization
 
 ✔ API Security
 
@@ -104,77 +108,61 @@ public class TahmidulAhad
 
 ---
 
-# 💻 Tech Stack
+# ⚙ Tech Stack
 
-## 🚀 Backend
+### 🚀 Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,django,php,java,c,cpp" />
-
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,django,java,php,c,cpp"/>
 </p>
 
----
-
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
----
-
-## 🗄 Database
+### 🗄 Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 </p>
 
----
-
-## ☁️ DevOps & Tools
+### ☁ Cloud & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio,postman" />
-
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,visualstudio"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🚑 Smart Medicine Reminder | IoT Based Healthcare Solution |
-| 🌾 Grameen Service Connect | Village to City Service Platform |
-| 🤖 BreathLink | Assistive IoT System |
-| 📄 AI CV Analyzer | Resume Screening using AI |
-| 🌐 Portfolio | Personal Developer Portfolio |
+| Project | Tech |
+|----------|------|
+| 🤖 BreathLink | ESP32 • IoT |
+| 💊 Smart Medicine Reminder | ESP32 • Telegram Bot |
+| 🌾 Grameen Service Connect | Django REST |
+| 📄 AI Resume Analyzer | Gemini API |
+| 🌐 Portfolio Website | HTML • CSS • JS |
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
----
-
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=TahmidulAhad&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
@@ -184,9 +172,9 @@ public class TahmidulAhad
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&no-frame=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&no-frame=true&column=7)
 
 ---
 
@@ -196,7 +184,7 @@ public class TahmidulAhad
 
 ---
 
-# ⚡ GitHub Metrics
+# 📈 Coding Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahmidulAhad&theme=tokyonight)
 
@@ -204,15 +192,15 @@ public class TahmidulAhad
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect with Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tahmidul-ahad/">
+<a href="https://www.linkedin.com/in/tahmidul-ahad">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://tahmidulahadportfolio.netlify.app/">
+<a href="https://tahmidulahadportfolio.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
 
@@ -226,10 +214,10 @@ public class TahmidulAhad
 
 <div align="center">
 
-## 💡 Quote
+### 💭 Developer Philosophy
 
-> **"Building scalable backend systems one API at a time."**
+> **"Great software isn't just about writing code—it's about solving real-world problems with clean architecture, scalability, and continuous learning."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=120&section=footer"/>
 
 </div>

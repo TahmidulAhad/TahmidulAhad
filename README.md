@@ -1,100 +1,235 @@
 <div align="center">
 
-# 👋 Hi, I'm Tahmidul Ahad!
-### 🛠️ Backend Developer | .NET Developer | Tech Enthusiast | Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tahmidul+Ahad;Backend+Developer;ASP.NET+Core+%7C+.NET+Developer;Django+Developer;Go+Learner;Always+Learning+New+Technologies" />
+
+<h3>🚀 Backend Developer • .NET Developer • API Engineer</h3>
 
 <p>
-  <a href="https://tahmidulahadportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tahmidul-ahad/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+Building scalable, secure and high-performance backend systems.
 </p>
+
+<p>
+
+<a href="https://tahmidulahadportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tahmidul-ahad/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-I am a passionate **Backend & .NET Developer** focused on building scalable, secure, and high-performance server-side applications. I enjoy solving real-world problems through clean architecture, optimized databases, and modern backend technologies.
+```cs
+public class TahmidulAhad
+{
+    public string Role => "Backend & .NET Developer";
 
-- 🔭 Currently working on **ASP.NET Core**, **Django**, and **Go**
-- 🌱 Currently learning **Microservices**, **System Design**, **Cloud Computing**, and **DevOps**
-- 💡 Interested in **Backend Engineering**, **API Development**, **Database Optimization**, and **Software Architecture**
-- 💬 Ask me about **C#, .NET, ASP.NET Core, Python, Django, Go, REST APIs, SQL, or Backend Development**
+    public string[] TechStack =>
+    [
+        "ASP.NET Core",
+        "C#",
+        ".NET",
+        "Django",
+        "Go",
+        "REST API",
+        "MySQL",
+        "PostgreSQL"
+    ];
+
+    public string[] Interests =>
+    [
+        "Backend Engineering",
+        "Clean Architecture",
+        "Microservices",
+        "Cloud",
+        "System Design"
+    ];
+
+    public string CurrentFocus =>
+        "Building scalable backend applications.";
+}
+```
+
+---
+
+# 🚀 Current Focus
+
+- 🔭 Building scalable backend applications using **ASP.NET Core**
+- 🌱 Learning **Microservices**
+- ☁️ Exploring **Cloud Computing**
+- ⚡ Improving **System Design**
+- 🔐 Learning Secure API Development
+- 💬 Ask me about **C#, ASP.NET Core, Django, Go, SQL**
+
+---
+
+# 🏗 Backend Expertise
+
+✔ REST API Development
+
+✔ Authentication & Authorization
+
+✔ JWT
+
+✔ Entity Framework Core
+
+✔ LINQ
+
+✔ Repository Pattern
+
+✔ MVC
+
+✔ Clean Architecture
+
+✔ Database Design
+
+✔ Performance Optimization
+
+✔ API Security
+
+✔ Software Architecture
 
 ---
 
 # 💻 Tech Stack
 
-## 🔧 Backend & Programming Languages
+## 🚀 Backend
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,django,php,java,c,cpp" />
 
-## 🗄️ Database & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</p>
 
 ---
 
 ## 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</p>
 
 ---
 
-## 🛠️ Tools & Design
+## 🗄 Database
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=TahmidulAhad&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=TahmidulAhad&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true)
+</p>
 
 ---
 
-# 👀 Profile Views
+## ☁️ DevOps & Tools
 
-![](https://visitcount.itsvg.in/api?id=TahmidulAhad&icon=5&color=12)
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio,postman" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚑 Smart Medicine Reminder | IoT Based Healthcare Solution |
+| 🌾 Grameen Service Connect | Village to City Service Platform |
+| 🤖 BreathLink | Assistive IoT System |
+| 📄 AI CV Analyzer | Resume Screening using AI |
+| 🌐 Portfolio | Personal Developer Portfolio |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://streak-stats.demolab.com?user=TahmidulAhad&theme=tokyonight&hide_border=true"/>
 
-**Code • Learn • Build • Repeat 🚀**
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&theme=tokyo-night)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&no-frame=true&row=1&column=7)
+
+---
+
+# 📊 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidulAhad&theme=tokyonight)
+
+---
+
+# ⚡ GitHub Metrics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahmidulAhad&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahmidulAhad&theme=tokyonight)
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tahmidul-ahad/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://tahmidulahadportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+> **"Building scalable backend systems one API at a time."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>

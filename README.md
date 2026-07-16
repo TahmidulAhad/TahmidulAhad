@@ -40,15 +40,14 @@ type Developer struct {
 }
 
 func main() {
-	tahmidul := &Developer{
-		Name:     "MD. Tahmidul Alam Ahad",
-		Roles:    []string{"Co-Founder & CMO @ Tectonic", "Backend Developer", "Graphic Designer"},
-		Company:  "Tectonic — Foundation of Future 🚀",
-		Location: "Chittagong, Bangladesh 🇧🇩",
-		Stack:    []string{"ASP.NET Core", "C#", ".NET", "Django", "Go", "REST API", "PostgreSQL"},
-		Learning: []string{"Microservices", "Cloud Native", "System Design", "DevOps"},
-		Mission:  "Building innovative tech solutions & driving marketing excellence.",
-	}
+	dev := new(Developer)
+	dev.Name     = "MD. Tahmidul Alam Ahad"
+	dev.Roles    = []string{"Co-Founder and CMO @ Tectonic", "Backend Developer", "Graphic Designer"}
+	dev.Company  = "Tectonic — Foundation of Future 🚀"
+	dev.Location = "Chittagong, Bangladesh 🇧🇩"
+	dev.Stack    = []string{"ASP.NET Core", "C#", ".NET", "Django", "Go", "REST API", "PostgreSQL"}
+	dev.Learning = []string{"Microservices", "Cloud Native", "System Design", "DevOps"}
+	dev.Mission  = "Building innovative tech solutions — driving marketing excellence."
 }
 ```
 

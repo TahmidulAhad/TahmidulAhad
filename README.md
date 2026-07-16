@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=230&section=header&text=Tahmidul%20Ahad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20Developer%20%7C%20API%20Engineer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=230&section=header&text=Tahmidul%20Ahad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Co-Founder%20%26%20CMO%20%40Tectonic&descAlignY=58"/>
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Co-Founder+%26+CMO+%40+Tectonic+%F0%9F%9A%80;Backend+Developer+%7C+ASP.NET+Core+%7C+C%23;Building+innovative+tech+solutions...;Driving+marketing+excellence+%40+Tectonic;Always+shipping.+Always+learning."/>

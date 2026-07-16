@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A5F,75:2563EB,100:38BDF8&height=280&section=header&text=Tahmidul%20Ahad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Co-Founder%20%26%20CMO%20%40Tectonic&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=280&section=header&text=Tahmidul%20Ahad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Co-Founder%20%26%20CMO%20%40Tectonic&descAlignY=55&descSize=20"/>
 
 <br/>
 
@@ -173,7 +173,7 @@ namespace Tectonic.Team
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
@@ -195,7 +195,7 @@ namespace Tectonic.Team
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"/>
 </div>
 
 ---

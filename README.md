@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:38BDF8&amp;height=280&amp;section=header&amp;text=Tahmidul%20Ahad&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Co-Founder%20%26%20CMO%20%40%20Tectonic%20%7C%20Backend%20Developer%20%7C%20Graphic%20Designer&amp;descAlignY=55&amp;descSize=18"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=280&section=header&text=Tahmidul%20Ahad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Co-Founder%20%26%20CMO%20%40%20Tectonic%20%7C%20Backend%20Developer%20%7C%20Graphic%20Designer&descAlignY=55&descSize=18)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Co-Founder+%26+CMO+%40+Tectonic+%F0%9F%9A%80;Backend+Developer+%7C+ASP.NET+Core+%7C+C%23;Building+innovative+tech+solutions...;Driving+marketing+excellence+%40+Tectonic;Always+shipping.+Always+learning."/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=Co-Founder+%26+CMO+%40+Tectonic;Backend+Developer+%7C+ASP.NET+Core+%7C+C%23;Building+innovative+tech+solutions...;Driving+marketing+excellence+%40+Tectonic;Always+shipping.+Always+learning.)
 
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/tahmidul-ahad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-  <a href="https://tahmidulahadportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8"/></a>
-  <a href="https://tect0nic.com"><img src="https://img.shields.io/badge/Tectonic-2563EB?style=for-the-badge&amp;logo=lightning&amp;logoColor=white"/></a>
-  <a href="mailto:mdtahmidula@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-  <a href="https://github.com/TahmidulAhad"><img src="https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=1E3A5F&amp;label=Follow"/></a>
+  <a href="https://www.linkedin.com/in/tahmidul-ahad">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://tahmidulahadportfolio.netlify.app">![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)</a>
+  <a href="https://tect0nic.com">![Tectonic](https://img.shields.io/badge/Tectonic-2563EB?style=for-the-badge&logo=lightning&logoColor=white)</a>
+  <a href="mailto:mdtahmidula@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://github.com/TahmidulAhad">![Follow](https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&logo=github&logoColor=white&color=1E3A5F&label=Follow)</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=TahmidulAhad&amp;style=for-the-badge&amp;color=2563EB&amp;label=PROFILE+VIEWS"/>
+![Profile Views](https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 $ whoami
 
-```csharp
+`csharp
 namespace Tectonic.Team;
 
 public sealed record Developer
@@ -56,7 +56,7 @@ class Program
         };
     }
 }
-```
+`
 
 ---
 
@@ -68,8 +68,8 @@ class Program
 
 ### 🏢 At Tectonic
 - Co-founded a cutting-edge tech platform
-- Leading brand strategy &amp; digital marketing
-- Driving user acquisition &amp; strategic growth
+- Leading brand strategy & digital marketing
+- Driving user acquisition & strategic growth
 - Building core backend infrastructure
 
 </td>
@@ -77,18 +77,18 @@ class Program
 
 ### 💻 In Code
 - Scalable **ASP.NET Core** applications
-- Secure **REST APIs** with JWT &amp; Identity
-- Clean Architecture &amp; Repository Pattern
-- Exploring **Go** &amp; Microservices
+- Secure **REST APIs** with JWT & Identity
+- Clean Architecture & Repository Pattern
+- Exploring **Go** & Microservices
 
 </td>
 <td width="33%" valign="top">
 
 ### 📚 Learning
-- Cloud Native &amp; DevOps workflows
-- Docker, Kubernetes &amp; CI/CD
-- System Design &amp; Distributed Systems
-- Advanced Go &amp; backend patterns
+- Cloud Native & DevOps workflows
+- Docker, Kubernetes & CI/CD
+- System Design & Distributed Systems
+- Advanced Go & backend patterns
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ class Program
 
 ---
 
-## 🏆 Achievements &amp; Recognition
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
@@ -106,7 +106,7 @@ class Program
 | 🥇 | **Honourable Mention** — WICE 2026 National Round | 2026 |
 | 🥈 | **First Runner-up** — Phitron Story Writing Contest | 2025 |
 | 🏅 | **Runner-up** — Chittagong ICT Fair Quiz Competition | 2025 |
-| 🚀 | **Co-Founder &amp; CMO** — Tectonic | 2025– |
+| 🚀 | **Co-Founder & CMO** — Tectonic | 2025– |
 | 💼 | **Backend Developer Intern** — NeXGenix Ltd. | 2024 |
 | 🔬 | **National 5th** — Science Project Competition | 2018 |
 
@@ -118,7 +118,7 @@ class Program
 
 <div align="center">
 
-| Core | Auth &amp; Security | Architecture | Database |
+| Core | Auth & Security | Architecture | Database |
 |:---:|:---:|:---:|:---:|
 | ASP.NET Core | JWT / OAuth 2.0 | Clean Architecture | PostgreSQL |
 | C# / .NET | ASP.NET Identity | Repository Pattern | MySQL |
@@ -134,17 +134,17 @@ class Program
 
 <div align="center">
 
-**Languages &amp; Frameworks**
+**Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,go,java,php,c,cpp&amp;theme=dark&amp;perline=9"/>
+![Languages](https://skillicons.dev/icons?i=cs,dotnet,python,django,go,java,php,c,cpp&theme=dark&perline=9)
 
-**Databases &amp; Cloud**
+**Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis&amp;theme=dark&amp;perline=9"/>
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis&theme=dark&perline=9)
 
-**DevOps, Design &amp; Tools**
+**DevOps, Design & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,visualstudio,figma&amp;theme=dark&amp;perline=9"/>
+![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,visualstudio,figma&theme=dark&perline=9)
 
 </div>
 
@@ -156,20 +156,20 @@ class Program
 
 | Project | Description | Stack | Link |
 |:---|:---|:---:|:---:|
-| 🚀 **Tectonic** | Co-founded tech startup — Foundation of Future | `Strategy` `Marketing` `Backend` | [🌐 Visit](https://tect0nic.com) |
-| 🤖 **BreathLink** | IoT breathing monitor — WICE International | `ESP32` `C++` `IoT` | — |
-| 🌾 **Grameen Service Connect** | Rural community service platform | `Django` `REST API` `PostgreSQL` | [🐙 GitHub](https://github.com/TahmidulAhad/GSC-Academic-Project-SPD01) |
-| 🤖 **Robo Avengers System** | Robotics team coordination &amp; management | `JavaScript` | [🐙 GitHub](https://github.com/TahmidulAhad/Robo_Avengers_Management_System) |
-| ♟ **Java Tetris Game** | Classic Tetris with scoring &amp; level system | `Java` | [🐙 GitHub](https://github.com/TahmidulAhad/Java-Tetris-Game-master) |
-| 📄 **AI Resume Analyzer** | AI-powered resume feedback &amp; analysis | `Python` `Gemini API` | — |
-| 🍽 **Restaurant System** | Academic restaurant management system | `PHP` `MySQL` | [🐙 GitHub](https://github.com/TahmidulAhad/Resturaunt_Project_Demo_01) |
-| 🎨 **CoderVai Initiative** | Educational coding bootcamp platform | `Design` `Branding` | [🎨 Behance](https://www.behance.net/gallery/231409529/CoderVai-Educational-and-Community-Initiative) |
+| 🚀 **Tectonic** | Co-founded tech startup — Foundation of Future | Strategy Marketing Backend | [🌐 Visit](https://tect0nic.com) |
+| 🤖 **BreathLink** | IoT breathing monitor — WICE International | ESP32 C++ IoT | — |
+| 🌾 **Grameen Service Connect** | Rural community service platform | Django REST API PostgreSQL | [🐙 GitHub](https://github.com/TahmidulAhad/GSC-Academic-Project-SPD01) |
+| 🤖 **Robo Avengers System** | Robotics team coordination & management | JavaScript | [🐙 GitHub](https://github.com/TahmidulAhad/Robo_Avengers_Management_System) |
+| ♟ **Java Tetris Game** | Classic Tetris with scoring & level system | Java | [🐙 GitHub](https://github.com/TahmidulAhad/Java-Tetris-Game-master) |
+| 📄 **AI Resume Analyzer** | AI-powered resume feedback & analysis | Python Gemini API | — |
+| 🍽 **Restaurant System** | Academic restaurant management system | PHP MySQL | [🐙 GitHub](https://github.com/TahmidulAhad/Resturaunt_Project_Demo_01) |
+| 🎨 **CoderVai Initiative** | Educational coding bootcamp platform | Design Branding | [🎨 Behance](https://www.behance.net/gallery/231409529/CoderVai-Educational-and-Community-Initiative) |
 
 </div>
 
 ---
 
-## 🎓 Education &amp; Certifications
+## 🎓 Education & Certifications
 
 <table width="100%">
 <tr>
@@ -190,7 +190,7 @@ class Program
 |:---|:---|:---:|
 | MongoDB Core Concepts | Credly | 2026 |
 | 3-Month Hybrid Internship | Aspire Program | 2025 |
-| PHP &amp; MySQL PDO | Udemy | 2023 |
+| PHP & MySQL PDO | Udemy | 2023 |
 | Career Launchpad | Grameenphone Ltd. | 2022 |
 | Basics of AI | 10 Minute School | 2022 |
 
@@ -200,15 +200,15 @@ class Program
 
 ---
 
-## 🤝 Leadership &amp; Community
+## 🤝 Leadership & Community
 
 <div align="center">
 
 | Role | Organization |
 |:---|:---|
-| **Co-Founder &amp; CMO** | 🚀 Tectonic |
+| **Co-Founder & CMO** | 🚀 Tectonic |
 | **Organizing Secretary** | 🤖 BGCTUB Robotics Club |
-| **Media &amp; Publication Secretary** | 💻 Allied Computer Streams (ACS) |
+| **Media & Publication Secretary** | 💻 Allied Computer Streams (ACS) |
 | **IT Coordinator** | 🖥 BGCTUB IT Club |
 | **Campus Ambassador (Phitronista)** | 🎓 Phitron |
 | **Executive** | 📋 BASIS Students' Forum — BGCTUB Chapter |
@@ -222,12 +222,12 @@ class Program
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahmidulAhad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=TahmidulAhad&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=TahmidulAhad&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -236,7 +236,7 @@ class Program
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&theme=tokyo-night&hide_border=true&area=true)
 </div>
 
 ---
@@ -244,7 +244,7 @@ class Program
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TahmidulAhad&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=10"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=TahmidulAhad&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)
 </div>
 
 ---
@@ -252,10 +252,10 @@ class Program
 ## 📋 Profile Summary
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidulAhad&amp;theme=tokyonight"/>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidulAhad&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahmidulAhad&amp;theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahmidulAhad&amp;theme=tokyonight"/>
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahmidulAhad&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahmidulAhad&theme=tokyonight)
 </div>
 
 ---
@@ -266,19 +266,19 @@ class Program
 
 <p>
   <a href="https://www.linkedin.com/in/tahmidul-ahad">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+    ![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
    
   <a href="https://tect0nic.com">
-    <img src="https://img.shields.io/badge/Visit-Tectonic-2563EB?style=for-the-badge&amp;logo=lightning&amp;logoColor=white"/>
+    ![Tectonic](https://img.shields.io/badge/Visit-Tectonic-2563EB?style=for-the-badge&logo=lightning&logoColor=white)
   </a>
    
   <a href="https://tahmidulahadportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/View-Portfolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8"/>
+    ![Portfolio](https://img.shields.io/badge/View-Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)
   </a>
    
   <a href="mailto:mdtahmidula@gmail.com">
-    <img src="https://img.shields.io/badge/Send-Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+    ![Email](https://img.shields.io/badge/Send-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
   </a>
 </p>
 
@@ -301,6 +301,6 @@ class Program
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:38BDF8,50:2563EB,100:0F172A&amp;height=140&amp;section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=140&section=footer)
 
 </div>

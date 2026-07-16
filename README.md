@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A5F,75:2563EB,100:38BDF8&height=280&section=header&text=Tahmidul%20Ahad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Co-Founder%20%26%20CMO%20%40Tectonic&descAlignY=55&descSize=20&stroke=38BDF8&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A5F,75:2563EB,100:38BDF8&height=280&section=header&text=Tahmidul%20Ahad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Co-Founder%20%26%20CMO%20%40Tectonic&descAlignY=55&descSize=20"/>
 
 <br/>
 
@@ -9,18 +9,10 @@
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/tahmidul-ahad">
-    <img src="https://img.shields.io/badge/LinkedIn-Tahmidul%20Ahad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tahmidulahadportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
-  </a>
-  <a href="mailto:mdtahmidula@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mdtahmidula-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/TahmidulAhad">
-    <img src="https://img.shields.io/github/followers/TahmidulAhad?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=1E3A5F"/>
-  </a>
+  <a href="https://www.linkedin.com/in/tahmidul-ahad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tahmidulahadportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/></a>
+  <a href="mailto:mdtahmidula@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/TahmidulAhad"><img src="https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&logo=github&logoColor=white&color=1E3A5F&label=Follow"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=TahmidulAhad&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>

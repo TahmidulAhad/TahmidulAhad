@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Co-Founder+%26+CMO+%40+Tectonic+%F0%9F%9A%80;Backend+Developer+%7C+ASP.NET+Core+%7C+C%23;Building+innovative+tech+solutions...;Driving+marketing+excellence+%40+Tectonic;Always+shipping.+Always+learning."/>
+
+<br/>
+
 <p>
   <a href="https://www.linkedin.com/in/tahmidul-ahad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
   <a href="https://tahmidulahadportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8"/></a>
@@ -233,6 +237,14 @@ class Program
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TahmidulAhad&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=10"/>
 </div>
 
 ---

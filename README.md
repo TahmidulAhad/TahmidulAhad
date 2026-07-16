@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=600%26size=22%26duration=3000%26pause=800%26color=38BDF8%26center=true%26vCenter=true%26width=820%26lines=Co-Founder+%2526+CMO+%2540+Tectonic;Backend+Developer+%257C+ASP.NET+Core+%257C+C%2523;Building+innovative+tech+solutions...;Driving+marketing+excellence+%2540+Tectonic;Always+shipping.+Always+learning."/>
-
-<br/>
-
 <p>
   <a href="https://www.linkedin.com/in/tahmidul-ahad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
   <a href="https://tahmidulahadportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8"/></a>
@@ -237,14 +233,6 @@ class Program
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TahmidulAhad&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=10"/>
 </div>
 
 ---

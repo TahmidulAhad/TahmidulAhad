@@ -55,49 +55,6 @@ class Program
     }
 }
 ```
-
----
-
-## 🚀 What I'm Working On
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🏢 At Tectonic
-- Co-founded a cutting-edge tech platform
-- Leading brand strategy &amp; digital marketing
-- Driving user acquisition &amp; strategic growth
-- Building core backend infrastructure
-
-</td>
-<td width="33%" valign="top">
-
-### 💻 In Code
-- Scalable **ASP.NET Core** applications
-- Secure **REST APIs** with JWT &amp; Identity
-- Clean Architecture &amp; Repository Pattern
-- Exploring **Go** &amp; Microservices
-
-</td>
-<td width="33%" valign="top">
-
-### 📚 Learning
-- Cloud Native &amp; DevOps workflows
-- Docker, Kubernetes &amp; CI/CD
-- System Design &amp; Distributed Systems
-- Advanced Go &amp; backend patterns
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements &amp; Recognition
-
-<div align="center">
-
 | | Achievement | Year |
 |:---:|:---|:---:|
 | 🌍 | **BreathLink** — Selected for WICE International Round, Malaysia *(Team Lead)* | 2026 |
@@ -107,42 +64,6 @@ class Program
 | 🚀 | **Co-Founder &amp; CMO** — Tectonic | 2025– |
 | 💼 | **Backend Developer Intern** — NeXGenix Ltd. | 2024 |
 | 🔬 | **National 5th** — Science Project Competition | 2018 |
-
-</div>
-
----
-
-## 🛠 Backend Expertise
-
-<div align="center">
-
-| Core | Auth &amp; Security | Architecture | Database |
-|:---:|:---:|:---:|:---:|
-| ASP.NET Core | JWT / OAuth 2.0 | Clean Architecture | PostgreSQL |
-| C# / .NET | ASP.NET Identity | Repository Pattern | MySQL |
-| Django REST | Role-based Access | CQRS / MVC | MongoDB |
-| Entity Framework Core | API Security | Microservices | Firebase |
-| LINQ | Refresh Tokens | DDD Principles | SQL Optimization |
-
-</div>
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-**Languages &amp; Frameworks**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,go,java,php,c,cpp&amp;theme=dark&amp;perline=9"/>
-
-**Databases &amp; Cloud**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis&amp;theme=dark&amp;perline=9"/>
-
-**DevOps, Design &amp; Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,visualstudio,figma&amp;theme=dark&amp;perline=9"/>
 
 </div>
 

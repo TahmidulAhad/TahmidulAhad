@@ -89,11 +89,6 @@ class Program
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahmidulAhad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidulAhad&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
-
-<br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=TahmidulAhad&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D"/>
 
 </div>

@@ -15,8 +15,6 @@
 </p>
 </div>
 
-<br/>
-
 ---
 
 ## 🧑‍💻 $ whoami
@@ -53,6 +51,27 @@ class Program
 }
 ```
 
+---
+
+## 🗂 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|:---|:---|:---:|:---:|
+| 🚀 **Tectonic** | Co-founded tech startup — Foundation of Future | `Strategy` `Marketing` `Backend` | [🌐 Visit](https://tect0nic.com) |
+| 🤖 **BreathLink** | IoT breathing monitor — WICE International | `ESP32` `C++` `IoT` | — |
+| 🌾 **Grameen Service Connect** | Rural community service platform | `Django` `REST API` `PostgreSQL` | [🐙 GitHub](https://github.com/TahmidulAhad/GSC-Academic-Project-SPD01) |
+| 🤖 **Robo Avengers System** | Robotics team coordination & management | `JavaScript` | [🐙 GitHub](https://github.com/TahmidulAhad/Robo_Avengers_Management_System) |
+| ♟ **Java Tetris Game** | Classic Tetris with scoring & level system | `Java` | [🐙 GitHub](https://github.com/TahmidulAhad/Java-Tetris-Game-master) |
+| 📄 **AI Resume Analyzer** | AI-powered resume feedback & analysis | `Python` `Gemini API` | — |
+| 🍽 **Restaurant System** | Academic restaurant management system | `PHP` `MySQL` | [🐙 GitHub](https://github.com/TahmidulAhad/Resturaunt_Project_Demo_01) |
+| 🎨 **CoderVai Initiative** | Educational coding bootcamp platform | `Design` `Branding` | [🎨 Behance](https://www.behance.net/gallery/231409529/CoderVai-Educational-and-Community-Initiative) |
+
+</div>
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -66,25 +85,6 @@ class Program
 | 🚀 | **Co-Founder & CMO** — Tectonic | 2025– |
 | 💼 | **Backend Developer Intern** — NeXGenix Ltd. | 2024 |
 | 🔬 | **National 5th** — Science Project Competition | 2018 |
-
-</div>
-
----
-
-## 🗂 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Link |
-|:---|:---|:---:|:---:|
-| 🚀 **Tectonic** | Co-founded tech startup — Foundation of Future | `Strategy` `Marketing` `Backend` | [🌐 Visit](https://tect0nic.com) |
-| 🤖 **BreathLink** | IoT breathing monitor — WICE International | `ESP32` `C++` `IoT` | — |
-| 🌾 **Grameen Service Connect** | Rural community service platform | `Django` `REST API` `PostgreSQL` | [🐙 GitHub](https://github.com/TahmidulAhad/GSC-Academic-Project-SPD01) |
-| 🤖 **Robo Avengers System** | Robotics team coordination &amp; management | `JavaScript` | [🐙 GitHub](https://github.com/TahmidulAhad/Robo_Avengers_Management_System) |
-| ♟ **Java Tetris Game** | Classic Tetris with scoring &amp; level system | `Java` | [🐙 GitHub](https://github.com/TahmidulAhad/Java-Tetris-Game-master) |
-| 📄 **AI Resume Analyzer** | AI-powered resume feedback &amp; analysis | `Python` `Gemini API` | — |
-| 🍽 **Restaurant System** | Academic restaurant management system | `PHP` `MySQL` | [🐙 GitHub](https://github.com/TahmidulAhad/Resturaunt_Project_Demo_01) |
-| 🎨 **CoderVai Initiative** | Educational coding bootcamp platform | `Design` `Branding` | [🎨 Behance](https://www.behance.net/gallery/231409529/CoderVai-Educational-and-Community-Initiative) |
 
 </div>
 
@@ -119,37 +119,7 @@ class Program
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
-
-<p>
-  <a href="https://www.linkedin.com/in/tahmidul-ahad">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://tect0nic.com">
-    <img src="https://img.shields.io/badge/Visit-Tectonic-2563EB?style=for-the-badge&logo=lightning&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://tahmidulahadportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/View-Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mdtahmidula@gmail.com">
-    <img src="https://img.shields.io/badge/Send-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-📍 Chittagong, Bangladesh
-
-</div>
-
----
-
-<div align="center">
-
-<br/>
 
 > *"Building innovative tech solutions and driving marketing excellence —*
 > *one commit, one campaign, one breakthrough at a time."*
@@ -158,8 +128,6 @@ class Program
 
 *⭐ If you find my work valuable, a star on any repo means a lot!*
 
-<br/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=140&section=footer" width="100%"/>
-
-</div>

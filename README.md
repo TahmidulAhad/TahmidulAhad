@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=200&section=header&text=Tahmidul%20Ahad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Co-Founder%20and%20CMO%20at%20Tectonic&descAlignY=52&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=200&section=header&text=Tahmidul%20Ahad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Co-Founder%20and%20CMO%20at%20Tectonic&descAlignY=52&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=Co-Founder+%26+CMO+%40+Tectonic+%F0%9F%9A%80;Backend+Developer+%7C+ASP.NET+Core+%7C+C%23;Building+innovative+tech+solutions...;Driving+marketing+excellence+%40+Tectonic;Always+shipping.+Always+learning."/>
 
@@ -52,13 +52,18 @@ class Program
     }
 }
 ```
+
+## 🏆 Achievements
+
+<div align="center">
+
 | | Achievement | Year |
 |:---:|:---|:---:|
 | 🌍 | **BreathLink** — Selected for WICE International Round, Malaysia *(Team Lead)* | 2026 |
 | 🥇 | **Honourable Mention** — WICE 2026 National Round | 2026 |
 | 🥈 | **First Runner-up** — Phitron Story Writing Contest | 2025 |
 | 🏅 | **Runner-up** — Chittagong ICT Fair Quiz Competition | 2025 |
-| 🚀 | **Co-Founder &amp; CMO** — Tectonic | 2025– |
+| 🚀 | **Co-Founder & CMO** — Tectonic | 2025– |
 | 💼 | **Backend Developer Intern** — NeXGenix Ltd. | 2024 |
 | 🔬 | **National 5th** — Science Project Competition | 2018 |
 
@@ -89,7 +94,7 @@ class Program
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=TahmidulAhad&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img width="75%" height="195" src="https://streak-stats.demolab.com?user=TahmidulAhad&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 </div>
 
@@ -98,7 +103,7 @@ class Program
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidulAhad&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -106,7 +111,7 @@ class Program
 ## 📋 Profile Summary
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidulAhad&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidulAhad&theme=tokyonight" width="100%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahmidulAhad&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahmidulAhad&theme=tokyonight"/>
@@ -155,6 +160,6 @@ class Program
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=140&section=footer" width="100%"/>
 
 </div>

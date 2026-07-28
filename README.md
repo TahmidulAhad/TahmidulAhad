@@ -13,9 +13,6 @@
   <a href="mailto:mdtahmidula@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
   <a href="https://github.com/TahmidulAhad"><img src="https://img.shields.io/github/followers/TahmidulAhad?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=1E3A5F&amp;label=Follow"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=TahmidulAhad&amp;style=for-the-badge&amp;color=2563EB&amp;label=PROFILE+VIEWS"/>
-
 </div>
 
 <br/>

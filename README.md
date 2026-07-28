@@ -167,55 +167,6 @@ class Program
 
 ---
 
-## 🎓 Education &amp; Certifications
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education
-| Degree | Institution | Result |
-|:---|:---|:---:|
-| **B.Sc. CSE** *(7th Sem)* | BGC Trust University Bangladesh | Pursuing |
-| **HSC** — 2021 | Cox's Bazar Govt. College | GPA 5.00 |
-| **SSC** — 2019 | Chakaria Korak Biddyapith | GPA 5.00 |
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Certifications
-| Certificate | Issuer | Year |
-|:---|:---|:---:|
-| MongoDB Core Concepts | Credly | 2026 |
-| 3-Month Hybrid Internship | Aspire Program | 2025 |
-| PHP &amp; MySQL PDO | Udemy | 2023 |
-| Career Launchpad | Grameenphone Ltd. | 2022 |
-| Basics of AI | 10 Minute School | 2022 |
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Leadership &amp; Community
-
-<div align="center">
-
-| Role | Organization |
-|:---|:---|
-| **Co-Founder &amp; CMO** | 🚀 Tectonic |
-| **Organizing Secretary** | 🤖 BGCTUB Robotics Club |
-| **Media &amp; Publication Secretary** | 💻 Allied Computer Streams (ACS) |
-| **IT Coordinator** | 🖥 BGCTUB IT Club |
-| **Campus Ambassador (Phitronista)** | 🎓 Phitron |
-| **Executive** | 📋 BASIS Students' Forum — BGCTUB Chapter |
-| **Sub-Committee Member** | 🗣 BGCTUB Debating Club |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

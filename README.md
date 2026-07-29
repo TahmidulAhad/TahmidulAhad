@@ -41,7 +41,7 @@ class Program
         {
             Name     = "MD. Tahmidul Alam Ahad",
             Roles    = ["Co-Founder and CMO @ Tectonic", "Backend Developer", "Graphic Designer"],
-            Company  = "Tectonic — Foundation of Future 🚀",
+            Company  = "Tectonic — Foundation of Future",
             Location = "Chittagong, Bangladesh 🇧🇩",
             Stack    = ["ASP.NET Core", "C#", ".NET", "Django", "Go", "REST API", "PostgreSQL"],
             Learning = ["Microservices", "Cloud Native", "System Design", "DevOps"],

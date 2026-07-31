@@ -63,8 +63,6 @@ class Program
 | 🤖 **BreathLink** | IoT breathing monitor — WICE International | `ESP32` `C++` `IoT` | — |
 | 🌾 **Grameen Service Connect** | Rural community service platform | `Django` `REST API` `PostgreSQL` | [🐙 GitHub](https://github.com/TahmidulAhad/GSC-Academic-Project-SPD01) |
 | 🤖 **Robo Avengers System** | Robotics team coordination & management | `JavaScript` | [🐙 GitHub](https://github.com/TahmidulAhad/Robo_Avengers_Management_System) |
-| ♟ **Java Tetris Game** | Classic Tetris with scoring & level system | `Java` | [🐙 GitHub](https://github.com/TahmidulAhad/Java-Tetris-Game-master) |
-| 📄 **AI Resume Analyzer** | AI-powered resume feedback & analysis | `Python` `Gemini API` | — |
 | 🍽 **Restaurant System** | Academic restaurant management system | `PHP` `MySQL` | [🐙 GitHub](https://github.com/TahmidulAhad/Resturaunt_Project_Demo_01) |
 | 🎨 **CoderVai Initiative** | Educational coding bootcamp platform | `Design` `Branding` | [🎨 Behance](https://www.behance.net/gallery/231409529/CoderVai-Educational-and-Community-Initiative) |
 

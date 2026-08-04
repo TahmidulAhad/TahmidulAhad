@@ -80,8 +80,6 @@ class Program
 | 🥇 | **Honourable Mention** — WICE 2026 National Round | 2026 |
 | 🥈 | **First Runner-up** — Phitron Story Writing Contest | 2025 |
 | 🏅 | **Runner-up** — Chittagong ICT Fair Quiz Competition | 2025 |
-| 🚀 | **Co-Founder & CMO** — Tectonic | 2025– |
-| 💼 | **Backend Developer Intern** — NeXGenix Ltd. | 2024 |
 | 🔬 | **National 5th** — Science Project Competition | 2018 |
 
 </div>

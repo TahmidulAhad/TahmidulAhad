@@ -72,7 +72,7 @@ class Program
 <img src="https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-2563EB?style=for-the-badge&logo=dart&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### 🗄️ Databases & Cloud
 
@@ -83,7 +83,7 @@ class Program
 <img src="https://img.shields.io/badge/Netlify-2563EB?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### 🌐 Frontend & Web
 
@@ -96,7 +96,7 @@ class Program
 <img src="https://img.shields.io/badge/Next.js-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NextAuth.js-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### 🧰 Development Tools
 

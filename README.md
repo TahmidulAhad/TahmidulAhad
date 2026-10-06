@@ -55,7 +55,7 @@ class Program
 
 <div align="center">
 
-### 🛠️ Backend & Programming Languages
+### ⚙️ Backend & Programming
 
 <img src="https://img.shields.io/badge/C%23-2563EB?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-2563EB?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -64,15 +64,17 @@ class Program
 <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-2563EB?style=for-the-badge&logo=django&logoColor=white"/>
 
+<br/>
+
 <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-2563EB?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-2563EB?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-2563EB?style=for-the-badge&logo=dart&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-### 🗄️ Database & Cloud
+### 🗄️ Databases & Cloud
 
 <img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -81,9 +83,9 @@ class Program
 <img src="https://img.shields.io/badge/Netlify-2563EB?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-### 🌐 Frontend
+### 🌐 Frontend & Web
 
 <img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -94,17 +96,24 @@ class Program
 <img src="https://img.shields.io/badge/Next.js-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NextAuth.js-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-### 🔧 Tools & Design
+### 🧰 Development Tools
 
 <img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-2563EB?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-2563EB?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-2563EB?style=for-the-badge&logoColor=white"/>
+
+<br/>
+
+### 🎨 Design & Creative Tools
+
 <img src="https://img.shields.io/badge/Adobe_Photoshop-2563EB?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-2563EB?style=for-the-badge&logo=canva&logoColor=white"/>
+
 </div>
 
 ---

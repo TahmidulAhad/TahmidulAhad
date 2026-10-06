@@ -107,6 +107,11 @@ class Program
 <img src="https://img.shields.io/badge/VS_Code-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity-2563EB?style=for-the-badge&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/DBeaver-2563EB?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-2563EB?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino_IDE-2563EB?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+
 <br/>
 
 ### 🎨 Design & Creative Tools

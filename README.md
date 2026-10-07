@@ -147,7 +147,7 @@ class Program
 | | Achievement | Year |
 |:---:|:---|:---:|
 | 🌍 | **BreathLink** — Selected for WICE International Round, Malaysia *(Team Lead)* | 2026 |
-| 🥇 | **Honourable Mention** — WICE 2026 National Round | 2026 |
+| 🥇 | **Honourable Mention** — WICE 2026 National Round *(Team Lead)* | 2026 |
 | 🥈 | **First Runner-up** — Phitron Story Writing Contest | 2025 |
 | 🏅 | **Runner-up** — Chittagong ICT Fair Quiz Competition | 2025 |
 | 🔬 | **National 5th** — Science Project Competition | 2018 |
